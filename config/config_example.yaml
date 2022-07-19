@@ -1,0 +1,32 @@
+server:
+  name: loboshop
+  ip: 127.0.0.1
+  port: 8088
+  upload_dir: "./upload"
+  image_prefix: "http://127.0.0.1/api/image/"
+
+mysql:
+  ip: 127.0.0.1
+  port: 3306
+  username: admin
+  password: "xxxxxxxx"
+  private: private.pem
+  db: sale
+
+redis:
+  ip: 127.0.0.1
+  port: 6379
+  password: ""
+  db: 0
+
+kafka:
+  ip: 127.0.0.1
+  port: 9092
+  topic: loboshop
+  group_name: test-consumer-group
+
+activemq:
+  endpoint: 127.0.0.1
+  queue: /queue/loboshop
+  username: loboshop
+  password: ""
