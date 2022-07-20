@@ -12,8 +12,8 @@ Loboshop is a web service for online flash sale that provides high throughput an
 - Separated front-end and back-end
 
 ## code
-Front-end: https://github.com/NiconicoGao/flash-sale-frontend\
-Back-end: https://github.com/NiconicoGao/flash-sale-backend\
+Front-end: https://github.com/NiconicoGao/flash-sale-frontend \
+Back-end: https://github.com/NiconicoGao/flash-sale-backend \
 Demo: http://54.201.152.192/shop 
 
 ## Process Flow
